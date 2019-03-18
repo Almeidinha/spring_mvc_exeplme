@@ -1,0 +1,10 @@
+br\com\codehouse\store\controllers\productsController.class
+br\com\codehouse\store\models\Product.class
+br\com\codehouse\store\conf\WebConfig.class
+br\com\codehouse\store\models\Price.class
+br\com\codehouse\store\models\PriceType.class
+br\com\codehouse\store\conf\JPAConfiguration.class
+br\com\codehouse\store\conf\ServletSpringMVC.class
+br\com\codehouse\store\controllers\HomeController.class
+br\com\codehouse\store\daos\ProductDao.class
+br\com\codehouse\store\conf\AppWebConfiguration.class
